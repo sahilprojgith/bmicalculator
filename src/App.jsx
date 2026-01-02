@@ -1,4 +1,4 @@
-// App.js
+// App.js, Testing changes on Github. 
 import React from "react";
 import BmiCalculator from "./BmiCalculator";
 import "./App.css";
@@ -10,5 +10,7 @@ function App() {
     </div>
   );
 }
+
+//testing changes 2 
 
 export default App;
